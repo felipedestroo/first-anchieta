@@ -1,11 +1,14 @@
 import Navbar from "@/components/navbar"
+import Footer from "@/components/footer"
+import Ourstory from "@/components/ourstory"
 
 export default function OurStory() {
   return (
-    <>
+      <div>
         <Navbar />
-        <h1>Nossa história</h1>
-    </>
+        <Ourstory />
+        <Footer />
+      </div>
   )
 }
 
