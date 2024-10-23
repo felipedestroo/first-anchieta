@@ -1,6 +1,6 @@
 export default function Ambassadors() {
   return (
-    <div>
+    <div className="h-screen">
       <h1>Embaixadores</h1>
     </div>
   );
