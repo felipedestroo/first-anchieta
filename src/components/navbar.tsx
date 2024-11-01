@@ -18,11 +18,11 @@ function NavBarItems(props: NavBarItemsProps) {
 export default function Navbar() {
   return (
     <div>
-      <div className="flex flex-col bg-blue-500 w-full h-full justify-center items-center gap-4">
+      <div className="flex flex-col bg-gradient-to-r from-blue-600 to-blue-800 py-6 shadow-lg w-full h-full justify-center items-center gap-4">
         <Image src={logo} alt="Logo First" className="mt-2" />
         <div>
           <ul className="flex gap-4 text-white text-center mb-2 font-bold flex-wrap justify-center">
-            <NavBarItems title={"Home"} url={"/"} />
+            <NavBarItems title={"Início"} url={"/"} />
             <NavBarItems title={"Nossa História"} url={"/nossa-historia"} />
             <NavBarItems title={"Embaixadores"} url={"/embaixadores"} />
             <NavBarItems title={"Redes Sociais"} url={"/redes-sociais"} />
