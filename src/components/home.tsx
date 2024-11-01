@@ -6,7 +6,6 @@ import photo4 from "../../public/photo4.png"
 export default function Home() {
   return (
     <div className="h-screen flex justify-center">
-        <div className="">
             <div className="flex justify-center xl:flex-row mt-16 mb-16 flex-wrap">
                 <div className="flex justify-center lg:flex-row flex-wrap">
                     <Image 
@@ -62,6 +61,5 @@ export default function Home() {
                 </div>
             </div>
         </div>
-    </div>
   )
 }
