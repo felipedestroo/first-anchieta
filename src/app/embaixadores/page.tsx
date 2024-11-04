@@ -30,15 +30,6 @@ export default function Embaixadores() {
                 programa <span className="text-blue-500">#FIRSTLikeAGirl</span>!
               </p>
               <p className="text-justify">
-                Ao longo dos anos, e mesmo durante a pandemia, muitas equipes
-                entraram em contato com a equipe fundadora, Exploding Bacon
-                1902, perguntando como poderiam contribuir mais para fortalecer
-                o movimento{" "}
-                <span className="text-blue-500">#FIRSTLikeAGirl</span>. Esse
-                entusiasmo nos inspirou a criar o Programa de Embaixadores{" "}
-                <span className="text-blue-500">#FIRSTLikeAGirl</span>.
-              </p>
-              <p className="text-justify">
                 Desde 2018, os embaixadores estão tornando esta campanha sua,
                 compartilhando suas histórias e criando botões e placas para
                 suas regiões e competições, mudando assim a cultura em seus
@@ -53,42 +44,41 @@ export default function Embaixadores() {
           <Card className="col-span-full md:col-span-1">
             <CardHeader>
               <CardTitle className="text-2xl font-bold text-blue-500 uppercase text-center">
-                Embaixadores Recentes #FIRSTLikeAGirl
+                Embaixadores
               </CardTitle>
             </CardHeader>
             <CardContent>
               <Table>
                 <TableHeader>
                   <TableRow>
-                    <TableHead className="text-center">2023-24</TableHead>
+                    <TableHead className="text-center">2016-24</TableHead>
                   </TableRow>
                 </TableHeader>
                 <TableBody>
                   <TableRow>
                     <TableCell>
-                      FTC 7593 NDB TigerBots, California USA
+                      FRC 7563 Megazord, Jundiaí BRA
                     </TableCell>
                   </TableRow>
                   <TableRow>
-                    <TableCell>FRC 1902 Exploding Bacon, Florida USA</TableCell>
+                    <TableCell>FRC 1156 Under Control, Rio Grande do Sul BRA</TableCell>
                   </TableRow>
                   <TableRow>
                     <TableCell>
-                      FRC 5993 Istech Robotic Society, Turkey
+                      FLL 11128 Haley, Birigui BRA
                     </TableCell>
                   </TableRow>
                   <TableRow>
                     <TableCell>
-                      FRC 4188 Columbus Space Program, Georgia, USA
+                      First Lego Girls, BRA
                     </TableCell>
                   </TableRow>
                   <TableRow>
-                    <TableCell>FRC 2212 The Spikes, Israel</TableCell>
+                    <TableCell>Ciencia e elas, BRA</TableCell>
                   </TableRow>
                   <TableRow>
                     <TableCell>
-                      FRC 1622 Team Spyder and PHS SWENext Chapter, South
-                      California, USA
+                      Steam para meninas, BRA
                     </TableCell>
                   </TableRow>
                 </TableBody>

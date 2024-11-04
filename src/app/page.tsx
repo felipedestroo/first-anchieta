@@ -10,7 +10,7 @@ export default function Home() {
             <Image
               src="/photo1.png"
               alt="Grupo de mulheres reunidas sobre mulheres no meio industrial"
-              className="rounded-xl border-4 border-white shadow-2xl transition-transform duration-300 hover:scale-105"
+              className="rounded-xl shadow-2xl transition-transform duration-300 hover:scale-105"
               width={500}
               height={500}
             />
@@ -55,13 +55,12 @@ export default function Home() {
             </div>
             <div>
               <h2 className="mb-3 text-2xl font-bold uppercase text-blue-600">
-                Por que isso é importante?
+                UniAnchieta
               </h2>
               <p className="text-lg font-medium text-gray-700">
-                Por meio dessa campanha nas redes sociais, capacitamos meninas
-                com a confiança necessária para superar pressões culturais,
-                seguir seus sonhos no STEM e se tornarem membros ativas da
-                comunidade FIRST.
+                Os alunos da UniAnchieta teve o papel fundamental de ajudar com a criação
+                e desenvolvimento desse site, fazendo a divulgação e trabalho necessário
+                para se tornar ainda mais forte o nosso propósito.
               </p>
             </div>
           </div>
@@ -71,7 +70,7 @@ export default function Home() {
               alt="Grupo de mulheres reunidas sobre mulheres no meio industrial"
               width={500}
               height={500}
-              className="rounded-xl border-4 border-white shadow-2xl transition-transform duration-300 hover:scale-105"
+              className="rounded-xl shadow-2xl transition-transform duration-300 hover:scale-105"
             />
           </div>
         </div>
