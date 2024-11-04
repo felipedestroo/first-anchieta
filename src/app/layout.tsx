@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: "First Like a Girl",
     description:
       "Um movimento nas redes sociais para encorajar meninas e mulheres em STEM e FIRST. Ao apresentar as muitas mulheres incríveis da FIRST e suas histórias, as meninas podem encontrar modelos com quem se identificam e que as inspiram.",
-    siteName: "Giovanni Vicentin Portfolio - Software Engineer",
+    siteName: "First Like a Girl",
     images: [
       {
         url: "/preview.png",
