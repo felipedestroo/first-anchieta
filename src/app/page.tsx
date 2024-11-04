@@ -58,7 +58,7 @@ export default function Home() {
                 UniAnchieta
               </h2>
               <p className="text-lg font-medium text-gray-700">
-                Os alunos da UniAnchieta teve o papel fundamental de ajudar com a criação
+                Os alunos da UniAnchieta tiveram o papel fundamental de ajudar com a criação
                 e desenvolvimento desse site, fazendo a divulgação e trabalho necessário
                 para se tornar ainda mais forte o nosso propósito.
               </p>
